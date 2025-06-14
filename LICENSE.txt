@@ -1,0 +1,68 @@
+Custom Use Licence
+
+Copyright (c) 2025 [George's Official]. All Rights Reserved.
+
+## PERMITTED USE
+
+You are granted permission to:
+- **ACCESS and USE** this software for personal, educational, or non-commercial purposes
+- **VIEW and INTERACT** with the software in its intended manner
+- **LEARN from** the code and techniques used
+
+## RESTRICTIONS
+
+The following activities require explicit written permission from the copyright holder:
+
+### Distribution
+- Hosting this software on other websites
+- Sharing copies with others
+- Making it available for download
+- Embedding in other websites or applications
+- Including in software packages or distributions
+
+### Modifications  
+- Creating derivative works
+- Modifying the source code
+- Adapting or customising the software
+- Creating variations or enhanced versions
+- Translating to other languages
+
+### Commercial Use
+- Using for any revenue-generating purpose
+- Including in paid products or services
+- Using in commercial websites or applications
+- Using in paid courses or workshops
+- Any use that directly or indirectly generates income
+
+## REQUESTING PERMISSION
+
+To request permission for restricted activities, contact: [georgesofficialuk@gmail.com]
+
+Please include:
+- Specific intended use
+- Scope and duration of use
+- Whether modifications are planned
+- Distribution methods (if applicable)
+- Commercial aspects (if any)
+
+Permission may be granted with specific terms and conditions at the copyright holder's sole discretion.
+
+## ATTRIBUTION
+
+If permission is granted for distribution or modification, you must:
+- Provide clear attribution to the original creator
+- Include a link to the original source
+- Indicate any changes made
+- Include this licence notice
+
+## NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## VIOLATION
+
+Unauthorised distribution, modification, or commercial use constitutes copyright infringement and may result in legal action.
+
+---
+
+**Simple Summary**: You can use this software freely, but you must ask permission before sharing it, modifying it, or using it to make money.
